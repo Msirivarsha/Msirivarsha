@@ -34,9 +34,11 @@ She/Her
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Msirivarsha&show_icons=true&theme=default&hide_title=true&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Msirivarsha&show_icons=true&theme=default&hide_title=true&bg_color=ffffff&langs_count=5)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Msirivarsha&theme=default&hide_title=true&background=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Msirivarsha&layout=compact&theme=default&bg_color=ffffff&langs_count=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Msirivarsha&layout=compact&theme=default&bg_color=ffffff&langs_count=5)
 
 
 ## GitHub Profile Trophy
